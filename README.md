@@ -1,8 +1,7 @@
 <p align="center">
   <a href="https://example.com/">
-    <img src="mygao2605/tuna.github.io/logo.jpg" alt="Logo" width=100 height=100>
+    <img src="tuna.github.io/logo.jpg" alt="Logo" width=100 height=100>
   </a>
-
   <h3 align="center">TuNa</h3>
 
   <p align="center">
