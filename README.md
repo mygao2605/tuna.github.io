@@ -1,9 +1,9 @@
 <p align="center">
   <a href="https://example.com/">
-    <img src="https://via.placeholder.com/72" alt="Logo" width=72 height=72>
+    <img src="logo.jpg" alt="Logo" width=100 height=100>
   </a>
 
-  <h3 align="center">Logo</h3>
+  <h3 align="center">TuNa</h3>
 
   <p align="center">
     Short description
@@ -15,9 +15,9 @@
 </p>
 
 
-## Table of contents
+## Profile
 
-- [Table of contents](#table-of-contents)
+- [Profile](#profile)
 - [Quick start](#quick-start)
 - [Status](#status)
 - [What's included](#whats-included)
