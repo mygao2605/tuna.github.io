@@ -5,10 +5,7 @@
     </a>
     <h3 align="center">TuNa</h3>
     <p align="center">
-      Short description
-      <br>
       <a href="https://reponame/issues/new?template=bug.md">Linux Embedded</a>
-      ·
       <a href="https://reponame/issues/new?template=feature.md&labels=feature">Android Embedded</a>
     </p>
   </p>
@@ -35,7 +32,9 @@ Some text
 - Instruction 1
 - Instruction 2
 - Instruction 3
+  
 ## Knowledge
+
 - a
 ## Skill
 
