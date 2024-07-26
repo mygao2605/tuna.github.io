@@ -18,7 +18,8 @@
 
 - [Profile](#profile)
 - [Quick start](#quick-start)
-- [Status](#status)
+- [Knowledge](#knowledge)
+- [Skill](#skill)
 - [What's included](#whats-included)
 - [Bugs and feature requests](#bugs-and-feature-requests)
 - [Contributing](#contributing)
@@ -34,8 +35,9 @@ Some text
 - Instruction 1
 - Instruction 2
 - Instruction 3
-
-## Status
+## Knowledge
+- a
+## Skill
 
 Here goes all the budgets
 
