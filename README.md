@@ -1,18 +1,18 @@
-<p align="center">
-  <a href="https://example.com/">
-    <img src="./images/logo.jpg" alt="code" width=100 height=100>
-  </a>
-  <h3 align="center">TuNa</h3>
-
+<div style="background-image: url('./images/logo.jpg'); background-size: cover; height: 100px; width: 100%; padding: 20px; color: blue; text-align: center;" >
   <p align="center">
-    Short description
-    <br>
-    <a href="https://reponame/issues/new?template=bug.md">Report bug</a>
-    ·
-    <a href="https://reponame/issues/new?template=feature.md&labels=feature">Request feature</a>
+    <a href="https://example.com/">
+      <img src="./images/logo.jpg" alt="code" width=100 height=100>
+    </a>
+    <h3 align="center">TuNa</h3>
+    <p align="center">
+      Short description
+      <br>
+      <a href="https://reponame/issues/new?template=bug.md">Linux Embedded</a>
+      ·
+      <a href="https://reponame/issues/new?template=feature.md&labels=feature">Android Embedded</a>
+    </p>
   </p>
-</p>
-
+</div>
 
 ## Profile
 
